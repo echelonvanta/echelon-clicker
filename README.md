@@ -21,6 +21,7 @@ It allows you to start and stop a click loop with a hotkey, and you can customiz
 ## 🖥️ Screenshot
 
 ![Echelon Clicker Screenshot](ss.jpg)  
+![Echelon Clicker Screenshot](Minecraft.gif) 
 *Example: modern navbar, buttons, and status label*
 
 ---
