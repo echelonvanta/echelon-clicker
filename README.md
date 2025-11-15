@@ -27,7 +27,8 @@ It allows you to start and stop a click loop with a hotkey, and you can customiz
 
 ## ⚙️ Installation
 
-[Download EXE](https://github.com/YourUsername/EchelonClicker/releases/download/v1.0/echelon_clicker.exe)
+[Download EXE](https://github.com/echelonvanta/echelon-clicker/releases/download/v1.0/echelon_clicker.exe)
+
 
 
 
