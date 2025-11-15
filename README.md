@@ -1,4 +1,4 @@
-# 🖱️ Echelon Clicker in Minecraft
+# 🖱️ Echelon Clicker in Minecraft or any
 
 Echelon Clicker is a **modern, minimal auto-clicker GUI application** built with Python.  
 It allows you to start and stop a click loop with a hotkey, and you can customize the hotkey anytime.  
@@ -23,19 +23,19 @@ It allows you to start and stop a click loop with a hotkey, and you can customiz
 ![Echelon Clicker Screenshot](ss.jpg)  
 
 
-## Minecraft System
+## 🔍 Minecraft System
 ![Echelon Clicker Screenshot](Minecraft.gif) 
 *Example: modern navbar, buttons, and status label*
 
 ---
 
 
-## Malware Scan
+## 🦠 Malware Scan
 ![Echelon Clicker Screenshot](Scanner.jpg) 
 
 ## ⚙️ Installation
 
-[Download EXE](https://github.com/echelonvanta/echelon-clicker/releases/download/v1.0/echelon_clicker.exe)
+[📂 Download EXE](https://github.com/echelonvanta/echelon-clicker/releases/download/v1.0/echelon_clicker.exe)
 
 
 
