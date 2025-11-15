@@ -21,21 +21,22 @@ It allows you to start and stop a click loop with a hotkey, and you can customiz
 ## 🖥️ Screenshot
 
 ![Echelon Clicker Screenshot](ss.jpg)  
-
+*Example: modern navbar, buttons, and status label*
 
 ## 🔍 Minecraft System
 ![Echelon Clicker Screenshot](Minecraft.gif) 
-*Example: modern navbar, buttons, and status label*
+
 
 ---
 
 
 ## 🦠 Malware Scan
 ![Echelon Clicker Screenshot](Scanner.jpg) 
-
+*If you don't trust it, there is open source.l*
 ## ⚙️ Installation
 
 [📂 Download EXE](https://github.com/echelonvanta/echelon-clicker/releases/download/v1.0/echelon_clicker.exe)
+
 
 
 
