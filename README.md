@@ -20,7 +20,7 @@ It allows you to start and stop a click loop with a hotkey, and you can customiz
 
 ## 🖥️ Screenshot
 
-![Echelon Clicker Screenshot](screenshot.png)  
+![Echelon Clicker Screenshot](ss.jpg)  
 *Example: modern navbar, buttons, and status label*
 
 ---
